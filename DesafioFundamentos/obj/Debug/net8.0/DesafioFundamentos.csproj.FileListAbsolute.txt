@@ -1,0 +1,14 @@
+C:\Users\Matheus\Documents\DIO\csharp-estacionamento\DesafioFundamentos\bin\Debug\net8.0\DesafioFundamentos.exe
+C:\Users\Matheus\Documents\DIO\csharp-estacionamento\DesafioFundamentos\bin\Debug\net8.0\DesafioFundamentos.deps.json
+C:\Users\Matheus\Documents\DIO\csharp-estacionamento\DesafioFundamentos\bin\Debug\net8.0\DesafioFundamentos.runtimeconfig.json
+C:\Users\Matheus\Documents\DIO\csharp-estacionamento\DesafioFundamentos\bin\Debug\net8.0\DesafioFundamentos.dll
+C:\Users\Matheus\Documents\DIO\csharp-estacionamento\DesafioFundamentos\bin\Debug\net8.0\DesafioFundamentos.pdb
+C:\Users\Matheus\Documents\DIO\csharp-estacionamento\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Documents\DIO\csharp-estacionamento\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.AssemblyInfoInputs.cache
+C:\Users\Matheus\Documents\DIO\csharp-estacionamento\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.AssemblyInfo.cs
+C:\Users\Matheus\Documents\DIO\csharp-estacionamento\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Documents\DIO\csharp-estacionamento\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.dll
+C:\Users\Matheus\Documents\DIO\csharp-estacionamento\DesafioFundamentos\obj\Debug\net8.0\refint\DesafioFundamentos.dll
+C:\Users\Matheus\Documents\DIO\csharp-estacionamento\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.pdb
+C:\Users\Matheus\Documents\DIO\csharp-estacionamento\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.genruntimeconfig.cache
+C:\Users\Matheus\Documents\DIO\csharp-estacionamento\DesafioFundamentos\obj\Debug\net8.0\ref\DesafioFundamentos.dll
